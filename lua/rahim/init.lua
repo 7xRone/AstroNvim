@@ -1,2 +1,2 @@
-require ("rahim.config")
-require ("rahim.harpoon-config")
+require ("rahim.configs.harpoon-config")
+require ("rahim.configs.keys-sets")
