@@ -45,7 +45,7 @@ return {
         DiffChange = { fg = "#F2F3F5", bg = "#050a30" },
         DiffDelete = { fg = "#F2F3F5", bg = "#bd2c00" },
         -- StatusLine
-        StatusLine = { fg = "#F2F3F5", bg = "none" },
+        StatusLine = { fg = "white", bg = "none" },
         StatusLineNC = { fg = "#F2F3F5", bg = "none" },
         StatusLineTerm = { fg = "#F2F3F5", bg = "none" },
         StatusLineTermNC = { fg = "#F2F3F5", bg = "none" },
